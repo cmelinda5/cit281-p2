@@ -16,3 +16,8 @@
 - Learned how to list a log of repo commit messages usinc CLI commands 
 - Practiced refactoring normal functions into function expressions 
 - Practiced using VSCode to execute git steps 
+
+## Images ##
+
+### Difference between what is currently in git and what will be added ###
+![Difference between what is currently in git and what will be added](p2-vscode-diff.PNG)
